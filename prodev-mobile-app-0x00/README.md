@@ -7,3 +7,4 @@
 1. Navigated to the parent project directory:
    ```bash
    cd "C:\Users\san\Desktop\alx. github projects\prodev-mobile-setup"
+reset-project
